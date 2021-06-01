@@ -1,2 +1,2 @@
-FROM anapsix/alpine-java:7
+FROM anapsix/alpine-java:9
 MAINTAINER Sanket Sudake
